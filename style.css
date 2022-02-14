@@ -1,0 +1,17 @@
+html {
+    font-size: 20px;
+    line-height: 1.6;
+}
+form * {
+    font-family: inherit;
+    font-size: inherit;
+}
+
+body {
+    background-color: #222;
+}
+.gif {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
